@@ -1,0 +1,7 @@
+1. Para iniciar um projeto com React e typescrypt devemos usar o comando:
+-> yarn create react-app nomedoprojeto --template typescript 
+ou
+-> npx create-react-app nomedoprojeto --template typescript, caso você não tenha o yarn instalado.
+OBS: o nomedoprojeto deve ser tudo em minúsculo.
+
+2. Após isso deixe na pasta src apenas os arquivos App.tsx, index.tsx e react-app-env.d.ts e na pasta public apenas o arquivo index.html. Dentro dos arquivos que sobraram apague as referencias aos arquivos apagados. 
